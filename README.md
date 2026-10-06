@@ -1,16 +1,29 @@
-## Hi there 👋
+# Beyond Localhost ⚡
 
-<!--
-**beyondlocalhost/beyondlocalhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Your code works on `localhost:3000`. Here is how it survives 10 million users.
 
-Here are some ideas to get you started:
+Senior UI Engineering breakdowns on browser runtime internals, Core Web Vitals telemetry, headless system design, and the path from service firms to Tier-1 product tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![YouTube](https://img.shields.io/badge/YouTube-Beyond%20Localhost-red?style=for-the-badge&logo=youtube)](https://youtube.com/@beyondlocalhost)
+[![Instagram](https://img.shields.io/badge/Instagram-@beyondlocalhost-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/beyondlocalhost)
+[![Topmate](https://img.shields.io/badge/Topmate-1:1%20Mock%20&%20Advisory-blue?style=for-the-badge)](https://topmate.io/beyondlocalhost)
+
+---
+
+### 🎯 30-Episode Engineering Roadmap
+
+| Series | Focus Area | Code Repository | Status |
+| :--- | :--- | :--- | :--- |
+| **01** | Cracking Web Vitals with Telemetry (INP, CLS, LCP) | [`series-01-web-vitals`](#) | 🚀 Active |
+| **02** | Memory Leaks & Runtime Diagnostics (Heap, Profiler) | [`series-02-runtime-diagnostics`](#) | ⏳ Upcoming |
+| **03** | Tier-1 Machine Coding Interview Challenges | [`series-03-machine-coding`](#) | ⏳ Upcoming |
+| **04** | Enterprise Async State & Network Resiliency | [`series-04-async-resiliency`](#) | ⏳ Upcoming |
+| **05** | Accessible Headless Primitives (WAI-ARIA 1.2) | [`series-05-headless-primitives`](#) | ⏳ Upcoming |
+| **06** | Enterprise Design Tokens & Infrastructure | [`series-06-design-infrastructure`](#) | ⏳ Upcoming |
+
+---
+
+### 💼 Career Transition & Advisory
+Navigated the exact trajectory from **Infosys → Lowe's → Walmart**.
+* Book a 45-minute [Tier-1 Machine Coding Mock Round](https://topmate.io/beyondlocalhost)
+* Book a 30-minute [Service-to-Product Resume & Strategy Audit](https://topmate.io/beyondlocalhost)
