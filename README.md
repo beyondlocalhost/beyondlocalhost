@@ -14,7 +14,7 @@ Senior UI Engineering breakdowns on browser runtime internals, Core Web Vitals t
 
 | Series | Focus Area | Code Repository | Status |
 | :--- | :--- | :--- | :--- |
-| **01** | Cracking Web Vitals with Telemetry (INP, CLS, LCP) | [`series-01-web-vitals`](#) | 🚀 Active |
+| **01** | Cracking Web Vitals with Telemetry (INP, CLS, LCP) | [`series-01-web-vitals`](https://github.com/beyondlocalhost/series-01-web-vitals) | 🚀 Active |
 | **02** | Memory Leaks & Runtime Diagnostics (Heap, Profiler) | [`series-02-runtime-diagnostics`](#) | ⏳ Upcoming |
 | **03** | Tier-1 Machine Coding Interview Challenges | [`series-03-machine-coding`](#) | ⏳ Upcoming |
 | **04** | Enterprise Async State & Network Resiliency | [`series-04-async-resiliency`](#) | ⏳ Upcoming |
