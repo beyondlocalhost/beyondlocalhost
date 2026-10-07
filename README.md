@@ -4,6 +4,10 @@
 
 Senior UI Engineering breakdowns on browser runtime internals, Core Web Vitals telemetry, headless system design, and the path from service firms to Tier-1 product tech.
 
+[![YouTube](https://img.shields.io/badge/YouTube-Beyond%20Localhost-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@beyondlocalhost-dev)
+[![Instagram](https://img.shields.io/badge/Instagram-@beyondlocalhost-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/beyondlocalhost.dev)
+[![Topmate](https://img.shields.io/badge/Topmate-1:1%20Mock%20&%20Advisory-blue?style=for-the-badge)](https://topmate.io/beyondlocalhost)
+
 ---
 
 ### 🎯 30-Episode Engineering Roadmap
@@ -21,5 +25,5 @@ Senior UI Engineering breakdowns on browser runtime internals, Core Web Vitals t
 
 ### 💼 Career Transition & Advisory
 Navigated the exact trajectory from **Infosys → Lowe's → Walmart**.
-* Book a 45-minute [Tier-1 Machine Coding Mock Round]
-* Book a 30-minute [Service-to-Product Resume & Strategy Audit]
+* Book a 60-minute [Tier-1 Machine Coding Mock Round](https://topmate.io/beyondlocalhost)
+* Book a 60-minute [Service-to-Product Resume & Strategy Audit](https://topmate.io/beyondlocalhost)
