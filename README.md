@@ -6,7 +6,6 @@ Senior UI Engineering breakdowns on browser runtime internals, Core Web Vitals t
 
 [![YouTube](https://img.shields.io/badge/YouTube-Beyond%20Localhost-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@beyondlocalhost-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-@beyondlocalhost-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/beyondlocalhost.dev)
-[![Topmate](https://img.shields.io/badge/Topmate-1:1%20Mock%20&%20Advisory-blue?style=for-the-badge)](https://topmate.io/beyondlocalhost)
 
 ---
 
@@ -23,7 +22,7 @@ Senior UI Engineering breakdowns on browser runtime internals, Core Web Vitals t
 
 ---
 
-### 💼 Career Transition & Advisory
+### 💼 Career Transition & Advisory [COMING SOON .......]
 Navigated the exact trajectory from **Infosys → Lowe's → Walmart**.
-* Book a 60-minute [Tier-1 Machine Coding Mock Round](https://topmate.io/beyondlocalhost)
-* Book a 60-minute [Service-to-Product Resume & Strategy Audit](https://topmate.io/beyondlocalhost)
+* Book a 60-minute [Tier-1 Machine Coding Mock Round]
+* Book a 60-minute [Service-to-Product Resume & Strategy Audit]
